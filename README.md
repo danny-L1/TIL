@@ -5,4 +5,4 @@
 
 
 2020.08
-[0805](https://github.com/danny-L1/TIL/master/web과html.md)
+[0805 web과 html](https://github.com/danny-L1/TIL/blob/master/0805%20web%EA%B3%BC%20html.md)
