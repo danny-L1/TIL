@@ -1,3 +1,6 @@
+
+# Web과 HTML
+
 # Web
 
 1990년 11월에
@@ -48,7 +51,7 @@ hyper text transfer protocol
 
 웹페이지를 전송하기 위해 만든 통신규약
 
-주소창에 입력된 주소가 [http://로](http://xn--2o2b/) 시작하면 웹브라우저는 http 통신규약에 따라서 웹서버에 접속하게 됩니다. file://로 시작하면 웹브라우저는 파일을 직접 열어서 보여줍니다.
+주소창에 입력된 주소가 http:// 로 시작하면 웹브라우저는 http 통신규약에 따라서 웹서버에 접속하게 됩니다. file://로 시작하면 웹브라우저는 파일을 직접 열어서 보여줍니다.
 
 ## **HTML(** HyperText Markup Language)
 
@@ -56,21 +59,17 @@ HTML 에디터 ( 에디트 플러스 / 아톰 / 메모장.. )
 
 # **tag**
 
-<u> 기울임
-
-<strong> 강조
-
-### <br>과 <p>의 차이
+### br과 p의 차이
 
 p 태그 br로 하는 단락 구분도 하면서 
 
 css를 통해 스타일도 줄 수 있음
 
-### 부모태그와 자식태그 <ul><li><ol>
+### 부모태그와 자식태그 ul/li/ol
 
-<ul> ( **u**nordered **l**ist )
+ul ( Unordered List )
 
-<ol> ( **o**rdered **l**ist )
+ol ( Ordered List )
 
 ### <meta charset="utf-8">
 
@@ -78,15 +77,13 @@ css를 통해 스타일도 줄 수 있음
 
 ### <!doctype html>
 
-이 웹페이지가 HTML로서 만들어졌다는 것을
+이 웹페이지가 HTML로서 만들어졌다는 것을 표현하기 위한 코드
 
-표현하기 위한 코드
-
-### <a>
+### a
 
 anchor의 첫글자를 딴 링크 태그
 
-**href**
+  **href**
 
 HyperText Reference의 약자
 
