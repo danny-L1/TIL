@@ -10,3 +10,5 @@
 [0805 web과 html](https://github.com/danny-L1/TIL/blob/master/0805%20web%EA%B3%BC%20html.md)
 
 [0806 GitHub에 프로젝트 올리기](https://github.com/danny-L1/TIL/blob/master/0806.md)
+
+[0807 jndi 설정하기](https://github.com/danny-L1/TIL/blob/master/0807.md)
