@@ -12,3 +12,5 @@
 [0806 GitHub에 프로젝트 올리기](https://github.com/danny-L1/TIL/blob/master/0806.md)
 
 [0807 jndi 설정하기](https://github.com/danny-L1/TIL/blob/master/0807.md)
+
+[0808 Cross-Site Scripting (XSS)](https://github.com/danny-L1/TIL/blob/master/0808.md)
