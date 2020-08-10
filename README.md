@@ -15,4 +15,6 @@
 
 [0808 Cross-Site Scripting (XSS)](https://github.com/danny-L1/TIL/blob/master/0808.md)
 
-[0808 MongoDB](https://github.com/danny-L1/TIL/blob/master/0809.md)
+[0809 MongoDB](https://github.com/danny-L1/TIL/blob/master/0809.md)
+
+[0810 JavaScript 기초](https://github.com/danny-L1/TIL/blob/master/0810.md)
