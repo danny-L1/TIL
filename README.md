@@ -22,3 +22,5 @@
 [0811 클래스간 형변환](https://github.com/danny-L1/TIL/blob/master/0811.md)
 
 [0812 ES6](https://github.com/danny-L1/TIL/blob/master/0812.md)
+
+[0814 머신러닝](https://github.com/danny-L1/TIL/blob/master/0814.md)
