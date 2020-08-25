@@ -24,3 +24,7 @@
 [0812 ES6](https://github.com/danny-L1/TIL/blob/master/0812.md)
 
 [0814 머신러닝](https://github.com/danny-L1/TIL/blob/master/0814.md)
+
+[0824 Lombok설치하고 코드줄이기](https://github.com/danny-L1/TIL/blob/master/0824.md)
+
+[0825 Lombok설치후 STS실행오류](https://github.com/danny-L1/TIL/blob/master/0825.md)
