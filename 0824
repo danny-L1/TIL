@@ -1,0 +1,105 @@
+# Lombok 설치하고 코드줄이기
+
+Created: Aug 24, 2020 5:51 PM
+Type: 공부한거
+
+# Lomok이란?
+
+객체 클래스에 @Data 어노테이션만 달면, Getter/Setter/Equals/ToString과 같은 메서드들을 
+
+자동으로 생성,연결해 줘서 코드 길이를 줄여주는 라이브러리
+
+프로젝트 할때 왜 몰랐을까....
+
+Lombok 설치 링크
+
+[Download](https://projectlombok.org/download)
+
+다운로드후  jar 파일 클릭하면 설치창이 실행된다. 
+
+사용하는 IDE (STS나 eclipse)의 실행파일(.exe)로 경로설정을 해주면 설치 완료
+
+ 설치 후 STS(eclipse)를 켜서 테스트 객체 클래스에 @Data 어노테이션을 달고 밑에 lombok이 뜨면 찐성공~~
+
+원래 이렇게 길었던 코드를...!
+
+```java
+package com.jhta.spring10.vo;
+
+import java.util.Date;
+
+public class BoardVo {
+	private int num;
+	private String writer;
+	private String title;
+	private String content;
+	private int hit;
+	private Date regdate;
+	public BoardVo() {}
+	public BoardVo(int num, String writer, String title, String content, int hit, Date regdate) {
+		super();
+		this.num = num;
+		this.writer = writer;
+		this.title = title;
+		this.content = content;
+		this.hit = hit;
+		this.regdate = regdate;
+	}
+	public int getNum() {
+		return num;
+	}
+	public void setNum(int num) {
+		this.num = num;
+	}
+	public String getWriter() {
+		return writer;
+	}
+	public void setWriter(String writer) {
+		this.writer = writer;
+	}
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public String getContent() {
+		return content;
+	}
+	public void setContent(String content) {
+		this.content = content;
+	}
+	public int getHit() {
+		return hit;
+	}
+	public void setHit(int hit) {
+		this.hit = hit;
+	}
+	public Date getRegdate() {
+		return regdate;
+	}
+	public void setRegdate(Date regdate) {
+		this.regdate = regdate;
+	}
+
+	 
+}
+```
+
+이렇게 짧고 간단하게 바꿀 수 있다!
+
+```java
+import java.util.Date;
+import lombok.Data;
+
+@Data
+public class BoardVo {
+	private int num;
+	private String writer;
+	private String title;
+	private String content;
+	private int hit;
+	private Date regdate;
+
+}
+```
