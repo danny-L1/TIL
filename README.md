@@ -30,3 +30,5 @@
 [0825 Lombok설치후 STS실행오류](https://github.com/danny-L1/TIL/blob/master/0825.md)
 
 [0827 Tomcat오류 3가지](https://github.com/danny-L1/TIL/blob/master/0827.md)
+
+[0828 Web Server와 WAS](https://github.com/danny-L1/TIL/blob/master/0828.md)
