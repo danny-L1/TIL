@@ -41,3 +41,5 @@
 
 [0906 script async 와 defer의 차이점](https://github.com/danny-L1/TIL/blob/master/0906.md)
 
+[0907 자바스크립트 데이터타입](https://github.com/danny-L1/TIL/blob/master/0907.md)
+
