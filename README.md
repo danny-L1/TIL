@@ -42,4 +42,4 @@
 
 [0910 스프링 프로젝트 생성하기](https://github.com/danny-L1/TIL/blob/master/0910.md)
 
-[0911 자바스크립트 연산, ](https://github.com/danny-L1/TIL/blob/master/0911.md)
+[0911 자바스크립트 연산, 반복문](https://github.com/danny-L1/TIL/blob/master/0911.md)
