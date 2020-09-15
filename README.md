@@ -48,5 +48,5 @@
 
 [0913 class vs object](https://github.com/danny-L1/TIL/blob/master/0913.md)
 
-[0914 자바스크립트 Object](https://github.com/danny-L1/TIL/blob/master/0913.md)
+[0915 자바스크립트 Object](https://github.com/danny-L1/TIL/blob/master/0915.md)
 
