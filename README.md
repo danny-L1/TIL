@@ -47,3 +47,6 @@
 [0912 자바스크립트 함수의 선언과 표현](https://github.com/danny-L1/TIL/blob/master/0912.md)
 
 [0913 class vs object](https://github.com/danny-L1/TIL/blob/master/0913.md)
+
+[0914 자바스크립트 Object](https://github.com/danny-L1/TIL/blob/master/0913.md)
+
