@@ -56,5 +56,5 @@
 2020.10
 
 
-[0916 자바스크립트 배열함수](https://github.com/danny-im/TIL/blob/master/1016.md)
+[1016 자바스크립트 배열함수](https://github.com/danny-im/TIL/blob/master/1016.md)
 
