@@ -58,3 +58,4 @@
 
 [1016 자바스크립트 배열함수](https://github.com/danny-im/TIL/blob/master/1016.md)
 
+[1020 자바스크립트 JSON](https://github.com/danny-im/TIL/blob/master/1020.md)
