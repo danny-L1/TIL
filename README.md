@@ -66,6 +66,6 @@
 2020.11
 
 
-[1021 Spring JUnit test / 의존성 주입](https://github.com/danny-im/TIL/blob/master/1101.md)
+[1101 Spring JUnit test / 의존성 주입](https://github.com/danny-im/TIL/blob/master/1101.md)
 
 
